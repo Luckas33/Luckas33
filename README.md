@@ -12,9 +12,25 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
-  <img src="https://img.shields.io/badge/PyCharm-366d27.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luckas33&layout=donut&locale=pt-br&bg_color=010409&text_color=ffffff&title_color=ffffff&border_color=30363D&border_radius=15)](https://github.com/Luckas33)
+
+---
+
+<p align="left">
+  💌 **Contate-me**:
+</p>
+
+<p align="left">
+  <a href="mailto:sobrallucas33@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-oliveira-sobral/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/lucassobral33" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
