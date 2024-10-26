@@ -1,10 +1,7 @@
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="lucas-oliveira-sobral" data-version="v1">
-    <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/lucas-oliveira-sobral?trk=profile-badge">Lucas Sobral</a>
-  </div>
-
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="lucas-oliveira-sobral" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/lucas-oliveira-sobral?trk=profile-badge">Lucas Sobral</a></div>
+              
   <div>
     ### Olá, meu nome é Lucas!
 
