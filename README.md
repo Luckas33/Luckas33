@@ -19,10 +19,11 @@
 
 ---
 
-**Contate-me:
-
 <p align="left">
-  <a href="sobrallucas33@gmail.com" title="Gmail">
+  Contate-me: ⤵️
+</p>
+<p align="left">
+  <a href="https://sobrallucas33@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="https://linkedin.com/in/lucas-oliveira-sobral/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
