@@ -1,7 +1,6 @@
  ### Olá, meu nome é Lucas!
 
 - **Membro do RAITec**: Envolvido em projetos inovadores e interdisciplinares.
-- **Colaborador na fintech Virtutis**: Atuando no Front-end Web.
 
 ---
 
