@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Python-3471A4?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luckas33&layout=donut&locale=pt-br&bg_color=010409&text_color=ffffff&title_color=ffffff&border_color=30363D&border_radius=15)](https://github.com/Luckas33)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luckas33&layout=donut&locale=pt-br&bg_color=010409&text_color=ffffff&title_color=ffffff&border_color=30363D&border_radius=20)](https://github.com/Luckas33)
 
 ---
 
