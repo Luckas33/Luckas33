@@ -15,18 +15,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luckas33&layout=donut&locale=pt-br&bg_color=010409&text_color=ffffff&title_color=ffffff&border_color=30363D&border_radius=20)](https://github.com/Luckas33)
 
 ---
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/Luckas33/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
-
----
 <p align="left">
   Contate-me: ⤵️
 </p>
