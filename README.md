@@ -1,7 +1,11 @@
- ### Olá, meu nome é Lucas!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F0F0F,2F2F2F,4F4F4F&height=180&section=header&text=Lucas%20Sobral&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Engenharia%20de%20Computa%C3%A7%C3%A3o%20%7C%20RAITec&descAlignY=51&descAlign=50"/>
+</div>
 
-- **Membro do RAITec**: Envolvido em projetos inovadores e interdisciplinares.
 
+
+
+Graduando em Engenharia de Computação, com interesse em gestão e desenvolvimento de software. Membro do RAITec, com experiência em projetos de IoT, Inteligência artificial e microcontroladores.
 ---
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
