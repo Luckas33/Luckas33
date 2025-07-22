@@ -3,15 +3,25 @@
 </div>
 
 
-#### Graduando em Engenharia de Computação, com interesse em gestão e desenvolvimento de software. Membro do RAITec, com experiência em projetos de IoT, Inteligência artificial e microcontroladores.
+#### Graduando em Engenharia de Computação, com interesse em gerenciamento e desenvolvimento de software. Membro do RAITec, com experiência em projetos de IoT, Inteligência artificial e microcontroladores. Bolsita da ação de extensão ACCS - RAITecS onde lidero projetos com foco em inovação tecnológica e inclusão social.
 ---
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/HTML5-E24B26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/Python-3471A4?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <a href="https://linkedin.com/in/lucas-oliveira-sobral/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  </a>
+  <a href="https://linkedin.com/in/lucas-oliveira-sobral/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  </a>
+  <a href="https://linkedin.com/in/lucas-oliveira-sobral/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  </a>
+  <a href="https://linkedin.com/in/lucas-oliveira-sobral/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/HTML5-E24B26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  </a>
+  <a href="https://linkedin.com/in/lucas-oliveira-sobral/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Python-3471A4?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luckas33&layout=donut&locale=pt-br&bg_color=010409&text_color=ffffff&title_color=ffffff&border_color=30363D&border_radius=20)](https://github.com/Luckas33)
