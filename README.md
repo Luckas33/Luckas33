@@ -7,7 +7,7 @@
 ---
 
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://linkedin.com/in/lucas-oliveira-sobral/)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]([https://www.udemy.com/certificate/UC-4463c4dc-dc0d-4edb-a48f-77a86cb63a7b])
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.udemy.com/certificate/UC-4463c4dc-dc0d-4edb-a48f-77a86cb63a7b/)
 [![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://linkedin.com/in/lucas-oliveira-sobral/)
 [![HTML5](https://img.shields.io/badge/HTML5-E24B26?style=for-the-badge&logo=html5&logoColor=white)](https://linkedin.com/in/lucas-oliveira-sobral/)
 [![Python](https://img.shields.io/badge/Python-3471A4?style=for-the-badge&logo=python&logoColor=white)](https://linkedin.com/in/lucas-oliveira-sobral/)
