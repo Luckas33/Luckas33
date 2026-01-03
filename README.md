@@ -3,7 +3,7 @@
 </div>
 
 
-#### Graduando em Engenharia de Computação, com interesse em gerenciamento e desenvolvimento de software. Membro do RAITec, com experiência em projetos de IoT, Inteligência artificial e microcontroladores. Bolsita da ação de extensão ACCS - RAITecS onde lidero projetos com foco em inovação tecnológica e inclusão social.
+#### Graduando em Engenharia de Computação, com interesse em desenvolvimento de software. Membro do RAITec, com experiência em projetos de IoT, Inteligência artificial e microcontroladores. Bolsita da ação de extensão ACCS - RAITecS onde lidero projetos com foco em inovação tecnológica e inclusão social.
 ---
 
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://linkedin.com/in/lucas-oliveira-sobral/)
