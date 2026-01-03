@@ -3,7 +3,7 @@
 </div>
 
 # 👨‍💻 Sobre mim
-#### Sou graduando em Engenharia de Computação na Universidade Federal do Ceará, com interesse em engenharia e desenvolvimento de software, automação e microcontroladores. Atuo como bolsista de extensão ACCS no RAITecS, onde coordeno projetos de impacto social envolvendo tecnologias acessíveis, como a produção de filamento reciclável para impressão 3D, a construção de uma estação de carregamento para a população em situação de rua e ações de alfabetização digital.
+#### Sou graduando em Engenharia de Computação na Universidade Federal do Ceará, com interesse em engenharia e desenvolvimento de software, automação e microcontroladores. Atuo como bolsista de extensão ACCS na RAITecS, onde coordeno projetos de impacto social envolvendo tecnologias acessíveis, como a produção de filamento reciclável para impressão 3D, a construção de uma estação de carregamento para a população em situação de rua e ações de alfabetização digital.
 ---
 
 # Tecnologias
