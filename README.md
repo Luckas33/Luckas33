@@ -3,7 +3,7 @@
 </div>
 
 # 👨‍💻 Sobre mim
-Graduando em **Engenharia de Computação** com interesse em **desenvolvimento de software**, **IoT**, **inteligência artificial** e **microcontroladores**.  
+Graduando em **Engenharia de Computação** com interesse em **desenvolvimento de software**, **engenharia de software**, **inteligência artificial** e **microcontroladores**.  
 Membro do **RAITec** e **bolsista ACCS – RAITecS**, atuando na liderança de projetos de impacto social focados em tecnologia, inovação e inclusão digital.
 
 ---
