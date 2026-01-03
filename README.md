@@ -10,7 +10,7 @@ Membro do **RAITec** e **bolsista ACCS – RAITecS**, atuando na liderança de p
 
 # Tecnologias
 
-### Linguagens de Programação & Tecnologias
+### Linguagens de Programação & Marcação
 ![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Java](https://skillicons.dev/icons?i=java)
