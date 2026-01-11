@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F0F0F,2F2F2F,4F4F4F&height=180&section=header&text=Lucas%20Sobral&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Engenharia%20de%20Computa%C3%A7%C3%A3o%20%7C%20RAITec%20%7C%20Bolsista%20ACCS&descAlignY=51&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F0F0F,2F2F2F,4F4F4F&height=180&section=header&text=Lucas%20Sobral&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Engenharia%20de%20Computa%C3%A7%C3%A3o%20%7C%20RAITec%20%7C&descAlignY=51&descAlign=50"/>
 </div>
 
 # 👨‍💻 Sobre mim
-#### Sou graduando em Engenharia de Computação na Universidade Federal do Ceará, com interesse em engenharia e desenvolvimento de software, automação e microcontroladores. Atuo como bolsista de extensão ACCS na RAITecS, onde coordeno projetos de impacto social envolvendo tecnologias acessíveis, como a produção de filamento reciclável para impressão 3D, a construção de uma estação de carregamento para a população em situação de rua e ações de alfabetização digital.
+#### Sou graduando em Engenharia de Computação na Universidade Federal do Ceará, com interesse em engenharia e desenvolvimento de software, automação e microcontroladores.
 ---
 
 # Tecnologias
