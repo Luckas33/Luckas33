@@ -15,10 +15,10 @@
 ![Python](https://skillicons.dev/icons?i=python)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
-![Latex](https://skillicons.dev/icons?i=latex)
 
 ### Ferramentas
 ![VSCode](https://skillicons.dev/icons?i=vscode)
+![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
 ![Windows](https://skillicons.dev/icons?i=windows)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Git](https://skillicons.dev/icons?i=git)
