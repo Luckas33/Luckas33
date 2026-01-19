@@ -3,7 +3,7 @@
 </div>
 
 # 👨‍💻 Sobre mim
-#### Sou graduando em Engenharia de Computação na Universidade Federal do Ceará, com interesse em engenharia e desenvolvimento de software, automação e microcontroladores.
+#### Sou estudante de Engenharia de Computação, com interesse em desenvolvimento de software e experiência em projetos de IoT, Inteligência Artificial e microcontroladores. Integro o grupo de extensão RAITec (Robótica, Automação, Inteligência Artificial e Tecnologias), onde atuo como Coordenador do Eixo Técnico.
 ---
 
 # Tecnologias
