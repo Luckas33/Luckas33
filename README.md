@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F0F0F,2F2F2F,4F4F4F&height=180&section=header&text=Lucas%20Sobral&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Engenharia%20de%20Computa%C3%A7%C3%A3o%20%7C%20RAITec%20%7C&descAlignY=51&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F0F0F,2F2F2F,4F4F4F&height=180&section=header&text=Lucas%20Sobral&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Engenharia%20de%20Computa%C3%A7%C3%A3o%20(UFC)%20%7C%20Bolsista%20ACCS%20%7C%20Coordenador%20de%20Eixo%20RAITec&descAlignY=51&descAlign=50"/>
 </div>
 
 # 👨‍💻 Sobre mim
