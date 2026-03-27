@@ -3,7 +3,12 @@
 </div>
 
 # 👨‍💻 Sobre mim
-#### Sou estudante de Engenharia de Computação, com interesse em desenvolvimento de software e experiência em projetos de IoT, Inteligência Artificial e microcontroladores. Integro o grupo de extensão RAITec (Robótica, Automação, Inteligência Artificial e Tecnologias), onde atuo como Coordenador do Eixo Técnico.
+Sou estudante de Engenharia de Computação, com foco na concepção, desenvolvimento e otimização de sistemas computacionais.
+
+Integro desde 2024 o grupo de extensão RAITec (Robótica, Automação, Inteligência Artificial e Tecnologias), onde atuo como Coordenador do Eixo Técnico e como bolsista da ação de extensão ACCS – RAITecS, participando da coordenação de projetos voltados à inovação tecnológica e inclusão social.
+
+Tenho experiência na organização e condução de equipes utilizando metodologias como Scrum, Kanban, aplicando boas práticas de planejamento, acompanhamento e entrega de projetos.
+
 ---
 
 # Tecnologias
